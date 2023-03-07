@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.exe
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.dll
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\bin\Debug\net5.0\Kata.Bowling.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.dll
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\refint\Kata.Bowling.dll
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\Kata.Bowling.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.Bowling\Kata.Bowling\obj\Debug\net5.0\ref\Kata.Bowling.dll

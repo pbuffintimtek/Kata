@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.exe
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.dll
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\bin\Debug\net5.0\Kata.WordWrap.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.dll
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\refint\Kata.WordWrap.dll
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\Kata.WordWrap.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.WordWrap\Kata.WordWrap\obj\Debug\net5.0\ref\Kata.WordWrap.dll

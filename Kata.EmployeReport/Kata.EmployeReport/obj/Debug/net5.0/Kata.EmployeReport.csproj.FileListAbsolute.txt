@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.exe
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.dll
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\bin\Debug\net5.0\Kata.EmployeReport.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.dll
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\refint\Kata.EmployeReport.dll
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\Kata.EmployeReport.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.EmployeReport\Kata.EmployeReport\obj\Debug\net5.0\ref\Kata.EmployeReport.dll

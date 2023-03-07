@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.exe
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.dll
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\bin\Debug\net5.0\Kata.DictonaryReplacer.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.dll
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\refint\Kata.DictonaryReplacer.dll
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\Kata.DictonaryReplacer.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.DictonaryReplacer\Kata.DictonaryReplacer\obj\Debug\net5.0\ref\Kata.DictonaryReplacer.dll

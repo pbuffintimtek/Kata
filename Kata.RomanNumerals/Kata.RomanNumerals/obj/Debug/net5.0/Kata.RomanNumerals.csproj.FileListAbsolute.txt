@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.exe
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.dll
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\bin\Debug\net5.0\Kata.RomanNumerals.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.dll
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\refint\Kata.RomanNumerals.dll
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\Kata.RomanNumerals.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.RomanNumerals\Kata.RomanNumerals\obj\Debug\net5.0\ref\Kata.RomanNumerals.dll

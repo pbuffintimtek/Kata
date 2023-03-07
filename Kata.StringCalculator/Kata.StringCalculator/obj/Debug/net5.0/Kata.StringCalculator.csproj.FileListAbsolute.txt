@@ -1,0 +1,16 @@
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.AssemblyInfo.cs
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.exe
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.deps.json
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.runtimeconfig.json
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.runtimeconfig.dev.json
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.dll
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\bin\Debug\net5.0\Kata.StringCalculator.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.dll
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\refint\Kata.StringCalculator.dll
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.pdb
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\Kata.StringCalculator.genruntimeconfig.cache
+C:\Users\Pierre\Desktop\Kata\Kata.StringCalculator\Kata.StringCalculator\obj\Debug\net5.0\ref\Kata.StringCalculator.dll
