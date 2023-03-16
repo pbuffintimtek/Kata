@@ -25,6 +25,7 @@ namespace Kata.SocialNetwork.Test
         [Test]
         public void ShouldReadWall()
         {
+
             var alice = Author.Create("Alice");
             var thomas = Author.Create("Thomas");
             thomas.Post("a message");
@@ -48,9 +49,9 @@ namespace Kata.SocialNetwork.Test
             charlie.Follow(alice);
             charlie.Follow(thomas);
 
-            var WallAgregate = charlie.FollowedWall();
+            var timeLine = charlie.FollowedWall();
 
-            CollectionAssert.AreEquivalent(WallAgregate.User, new List<Author>() { alice, thomas });
+            CollectionAssert.AreEquivalent(timeLine.User, new List<Author>() { alice, thomas });
         }
     }
 }

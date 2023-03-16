@@ -26,9 +26,9 @@ namespace Kata.SocialNetwork.Models
             Followed.Add(user);
         }
 
-        public WallAgregate FollowedWall()
+        public TimeLine FollowedWall()
         {
-            var walls = new WallAgregate();
+            var walls = new TimeLine();
             foreach (var item in Followed)
             {
                 walls.User.Add(item);

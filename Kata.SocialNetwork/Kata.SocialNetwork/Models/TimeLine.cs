@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Kata.SocialNetwork.Models
 {
-    public class WallAgregate
+    public class TimeLine
     {
         public List<Author> User { get; set; }
 
-        public WallAgregate()
+        public TimeLine()
         {
             User = new List<Author>();
         }
