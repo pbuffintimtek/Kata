@@ -11,7 +11,7 @@ namespace Kata.LeapYear.Test
         }
 
         [Test]
-        public void IsYearDivisibleBy400()
+        public void Should_2000_is_leap_year_as_it_divisible_by_400()
         {
            var isLeap = LeapYearsFinder.Create(2000).IsLeapYear();
 
@@ -19,7 +19,7 @@ namespace Kata.LeapYear.Test
         }
 
         [Test]
-        public void IsYearDivisibleBy4AndNotBy100()
+        public void Should_1992_is_leap_year_as_it_divisible_by_4_and_not_by_100()
         {
             var isLeap = LeapYearsFinder.Create(1992).IsLeapYear();
 
