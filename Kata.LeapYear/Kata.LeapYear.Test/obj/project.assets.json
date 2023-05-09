@@ -3979,11 +3979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
       "projectName": "Kata.LeapYear.Test",
-      "projectPath": "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
+      "projectPath": "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
       "packagesPath": "C:\\Users\\Pierre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear.Test\\obj\\",
+      "outputPath": "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4006,8 +4006,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear\\Kata.LeapYear.csproj": {
-              "projectPath": "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear\\Kata.LeapYear.csproj"
+            "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear\\Kata.LeapYear.csproj": {
+              "projectPath": "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear\\Kata.LeapYear.csproj"
             }
           }
         }
@@ -4059,7 +4059,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

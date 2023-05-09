@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUEyeyRVmHR0egQdcd0qRum+57rCG9uP2eQjzrdTu3BHOrs9aCiEQkwNNdo/PxyJ6RZ3I9h3W6irjAEIuEJ+bg==",
+  "dgSpecHash": "gr97qLCjo03Jxt7S47F3YnkCbS9S/ptz701Y8OV80p8yIzsj2grJGmxfEY1iryuiMRmBuU6QupEzx6CF/Hj+og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pierre\\Desktop\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
+  "projectFilePath": "C:\\Users\\Pierre\\Desktop\\Kata\\Kata.LeapYear\\Kata.LeapYear.Test\\Kata.LeapYear.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pierre\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Pierre\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

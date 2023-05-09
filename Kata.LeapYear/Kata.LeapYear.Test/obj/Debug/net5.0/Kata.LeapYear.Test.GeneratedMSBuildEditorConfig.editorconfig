@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kata.LeapYear.Test
-build_property.ProjectDir = C:\Users\Pierre\Desktop\Kata.LeapYear\Kata.LeapYear.Test\
+build_property.ProjectDir = C:\Users\Pierre\Desktop\Kata\Kata.LeapYear\Kata.LeapYear.Test\
